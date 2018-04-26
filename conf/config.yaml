@@ -1,0 +1,6 @@
+title: "每日golang信息"
+dingdingurl: # 你的钉钉接受群的机器人url
+urllist: 
+  https://www.google.com.tw/search?hl=zh-CN&q=golang&tbs=qdr:d
+  https://www.google.com.tw/search?hl=zh-CN&q=k8s&tbs=qdr:d
+  https://www.google.com.tw/search?hl=zh-CN&q=python&tbs=qdr:d

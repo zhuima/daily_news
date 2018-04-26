@@ -1,0 +1,28 @@
+hash: 173c5a11929754e2b229005547f24b3fdff9b90ad9fb971c6530b93d9a2abf0c
+updated: 2018-04-26T18:38:19.743991968+08:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 901648c87902174f774fac311d7f176f8647bdaa
+- name: github.com/djimenez/iconv-go
+  version: 8960e66bd3dacbc8773962b40eb82fc18c63c127
+- name: github.com/PuerkitoBio/goquery
+  version: a86ea073017a6beddef78c8659e7224e8ca634b0
+- name: github.com/sirupsen/logrus
+  version: 778f2e774c725116edbc3d039dc0dfc1cc62aae8
+- name: golang.org/x/crypto
+  version: 12892e8c234f4fe6f6803f052061de9057903bb2
+  subpackages:
+  - ssh/terminal
+- name: golang.org/x/net
+  version: b68f30494add4df6bd8ef5e82803f308e7f7c59c
+  subpackages:
+  - html
+  - html/atom
+- name: golang.org/x/sys
+  version: 378d26f46672a356c46195c28f61bdb4c0a781dd
+  subpackages:
+  - unix
+  - windows
+- name: gopkg.in/yaml.v2
+  version: 5420a8b6744d3b0345ab293f6fcba19c978f1183
+testImports: []
